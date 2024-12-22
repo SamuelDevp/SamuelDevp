@@ -45,7 +45,7 @@
 
 - Advanced **Node.js** concepts.  
 - Building **APIs** and real-time applications.  
-- **GraphQL** and advanced database management.  
+- **Mongodb** and advanced database management.  
 
 ---
 
@@ -60,9 +60,7 @@
 ---
 
 ## 🏆 Achievements  
-
-- Developed [Project Name](#), an innovative tool for **[feature/industry]**.  
-- Contributed to **[open-source project]** enhancing **[specific functionality]**.  
+- Contributed to **MUI** enhancing **UI DESIGN**.  
 
 ---
 
