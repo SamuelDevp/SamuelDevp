@@ -55,7 +55,7 @@
 - 💼 Check out my projects on [GitHub](https://github.com/SamuelDevP)  
 - 🐦 Follow me on [X (Twitter)](https://twitter.com/@samueldevp)  
   <img src="https://img.shields.io/badge/X-@your_handle-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" />  
-- 📧 Email me at **your_email@example.com**  
+- 📧 Email me at **samueldevp@gmail.com**  
 
 ---
 
